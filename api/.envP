@@ -1,0 +1,7 @@
+DB_USER=postgres
+DB_PASSWORD=qkvIFChtvQqQlVUZfbhuPSGcPIeyGSuA
+DB_HOST=monorail.proxy.rlwy.net
+DB_PORT=27724
+DB_NAME=railway
+PORT=3001
+SECURE=true
